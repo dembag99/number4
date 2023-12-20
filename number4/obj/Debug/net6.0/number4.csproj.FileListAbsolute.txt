@@ -1,0 +1,14 @@
+C:\Users\abalogun\Desktop\repos\number4\number4\bin\Debug\net6.0\number4.exe
+C:\Users\abalogun\Desktop\repos\number4\number4\bin\Debug\net6.0\number4.deps.json
+C:\Users\abalogun\Desktop\repos\number4\number4\bin\Debug\net6.0\number4.runtimeconfig.json
+C:\Users\abalogun\Desktop\repos\number4\number4\bin\Debug\net6.0\number4.dll
+C:\Users\abalogun\Desktop\repos\number4\number4\bin\Debug\net6.0\number4.pdb
+C:\Users\abalogun\Desktop\repos\number4\number4\obj\Debug\net6.0\number4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abalogun\Desktop\repos\number4\number4\obj\Debug\net6.0\number4.AssemblyInfoInputs.cache
+C:\Users\abalogun\Desktop\repos\number4\number4\obj\Debug\net6.0\number4.AssemblyInfo.cs
+C:\Users\abalogun\Desktop\repos\number4\number4\obj\Debug\net6.0\number4.csproj.CoreCompileInputs.cache
+C:\Users\abalogun\Desktop\repos\number4\number4\obj\Debug\net6.0\number4.dll
+C:\Users\abalogun\Desktop\repos\number4\number4\obj\Debug\net6.0\refint\number4.dll
+C:\Users\abalogun\Desktop\repos\number4\number4\obj\Debug\net6.0\number4.pdb
+C:\Users\abalogun\Desktop\repos\number4\number4\obj\Debug\net6.0\number4.genruntimeconfig.cache
+C:\Users\abalogun\Desktop\repos\number4\number4\obj\Debug\net6.0\ref\number4.dll
